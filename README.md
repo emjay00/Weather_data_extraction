@@ -1,2 +1,2 @@
 # Weather_data_extraction
-Extract date, minimum and maximum tempararature given any location from Weather.com
+Extract date, minimum and maximum tempararature given any location from Weather.com and store in excel
