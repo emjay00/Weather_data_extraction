@@ -56,5 +56,6 @@ public class weather {
         FileOutputStream fs = new FileOutputStream(file);
         wf.write(fs);
         wf.close();
+        
     }
 }
